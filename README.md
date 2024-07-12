@@ -1,5 +1,5 @@
 # the-Deep-Split-Bregman-Deconvolution-Network
-This code tested on the RTX4090 GPUs
+This is the example code for An Unsupervised Deep Bregman Method for Radio Interferometry Deconvolution, which was tested on the RTX4090 GPUs.
 
 Requirements:
 - Python 3.12
